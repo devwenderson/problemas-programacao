@@ -1,3 +1,5 @@
+# APARENTEMENTE, A LÓGICA ESTÁ INCORRETA
+
 while True:
     n_amostras = int(input())
     if n_amostras == 0:
