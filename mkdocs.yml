@@ -1,0 +1,39 @@
+
+site_name: Resoluções de problemas de programação
+copyright: Copyright &copy; 2025 Wenderson da Silva
+
+# Add repository in header
+repo_url: https://github.com/devwenderson/problemas-programacao
+repo_name: devwenderson/problemas-programacao
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.footer
+    # - navigation.indexes
+    - navigation.sections
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/git-alt 
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav: 
+  - Início: index.md
+  - Maratona de programação SBC:
+    - 2008: 'maratona-programacao-sbc/2008/index.md'
+    - 2009: 'maratona-programacao-sbc/2009/index.md'
+    - 2013: 'maratona-programacao-sbc/2013/index.md'
+  - Beecrowd:
+    - Problemas: 'beecrowd/index.md'
+  - Olimpíada de informática - OBI:
+    - 2000: 'obi/2000/index.md'
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/devwenderson 
