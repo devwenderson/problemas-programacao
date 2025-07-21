@@ -1,6 +1,6 @@
 # Maratona de programação - SBC
 
-## 2013
+## 2018
 | Problema          | Fase                                 | Link                                             |
 | :---------------- | :----------------------------------- | :----------------------------------------------- |
-| E - Mergulho      | 1ª fase                              | [Solução](primeira-fase/e-mergulho.md)   | 
+| D - Enigma        | 1ª fase                              | [Solução](primeira-fase/d-enigma.md)   | 
