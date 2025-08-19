@@ -24,13 +24,15 @@ markdown_extensions:
 
 nav: 
   - Início: index.md
+  - Beecrowd:
+    - Problemas: 'beecrowd/index.md'
+  - AtCoder:
+    - Problemas: 'atcoder/index.md'
   - Maratona de programação SBC:
     - 2008: 'maratona-programacao-sbc/2008/index.md'
     - 2009: 'maratona-programacao-sbc/2009/index.md'
     - 2013: 'maratona-programacao-sbc/2013/index.md'
     - 2018: 'maratona-programacao-sbc/2018/index.md'
-  - Beecrowd:
-    - Problemas: 'beecrowd/index.md'
   - Olimpíada de informática - OBI:
     - 2000: 'obi/2000/index.md'
 
